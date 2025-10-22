@@ -1,3 +1,4 @@
+<!-- Convert numbers 1-10 to English words -->
 <?php
 function numberToWord($num) {
     $words = [

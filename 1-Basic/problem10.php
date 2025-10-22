@@ -1,3 +1,4 @@
+<!-- Calculate BMI and return category -->
 <?php
 function calculateBMI($weightKg, $heightCm) {
     // Convert height from cm to meters

@@ -1,3 +1,4 @@
+<!-- Find largest of three numbers without max() function -->
 <?php
 function largestOfThree($a, $b, $c) {
     $largest = $a; // assume $a is largest

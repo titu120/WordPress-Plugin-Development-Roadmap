@@ -1,3 +1,4 @@
+<!-- Perform basic arithmetic operations based on operator -->
 <?php
 function calculate($num1, $num2, $operator) {
     switch ($operator) {

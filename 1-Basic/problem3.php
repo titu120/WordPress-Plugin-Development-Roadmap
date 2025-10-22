@@ -1,4 +1,5 @@
-<?php
+ <!-- Convert numerical score to letter grade with +/- system -->
+<?php 
 function getLetterGrade($score) {
     if ($score < 0 || $score > 100) {
         return "Invalid score";

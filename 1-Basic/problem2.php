@@ -1,3 +1,4 @@
+ <!-- Determine access level based on age ranges -->
 <?php
 function getAccessLevel($age) {
     if ($age < 0) {

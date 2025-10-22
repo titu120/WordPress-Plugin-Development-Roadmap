@@ -1,3 +1,4 @@
+<!-- Convert number 1-7 to day name with error handling -->
 <?php
 function numberToDay($num) {
     $days = [

@@ -1,3 +1,4 @@
+<!-- Convert between Celsius and Fahrenheit -->
 <?php
 function convertTemperature($value, $unit) {
     $unit = strtoupper($unit); // make case-insensitive

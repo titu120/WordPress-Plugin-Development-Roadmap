@@ -1,3 +1,4 @@
+<!-- Check if number is positive, even, and greater than 100 -->
 <?php
 function checkNumber($num) {
     if ($num > 0 && $num % 2 == 0 && $num > 100) {

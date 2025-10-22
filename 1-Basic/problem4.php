@@ -1,4 +1,5 @@
-<?php
+ <!-- Check if year is leap year with century rules -->
+ <?php
 function isLeapYear($year) {
     if ($year % 4 != 0) {
         // Not divisible by 4 → not a leap year
